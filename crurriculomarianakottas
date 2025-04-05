@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Mariana Kottas</title>
+</head>
+<body>
+
+    <center>
+        <h1>Mariana Gomes Kottas</h1>
+        <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
+        <img src="Imagens/REPLICA.jpg" alt="Foto de Mariana" height="30%" width="30%"  title="Mariana Kottas">     
+    </center>
+<p>
+    <center>
+        <h3 style="background-color:rgb(194, 193, 253);"  >
+            <tagname style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 150%;" style="color: rgb(rgb(0, 0, 0));">
+                <a href="inicio.html" target="main" >Olá ! - </a> 
+                <a href="quemeusou.html" target="main">Quem eu sou. - </a> 
+                <a href="formacao.html" target="main">Fomação - </a>
+                <a href="habilidades.html" target="main">Habilidades - </a>
+                <a href="redessociais.html" target="main">Redes - </a>
+                <a href="curriculomariana.html" target="main"> Curriculo HTML - </a>
+                <a href="navegavel.html" target="main"> Navegavel </a>
+            </tagname>
+        </h3>
+    </center>
+
+</p>
+<center>
+    <iframe src="Objetivo.html" style="border: 11px;"  width="800px" height="500px" name="main"></iframe>
+</center>
+
+</body>
+</html>
